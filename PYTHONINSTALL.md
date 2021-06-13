@@ -59,7 +59,7 @@ We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make
 
 ![](IDLE-run-images-cap3/1.jpg)
 
-* You should now see program running in the **IDLE** console:
+* You should now see the program running in the **IDLE** console:
 
 ![](IDLE-run-images-cap3/2.jpg)
 
