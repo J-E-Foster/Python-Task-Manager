@@ -52,18 +52,18 @@ We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make
 
 * Search for the folder where you saved **finance_calculators.py** (or any other Python file):
 
-![](IDLE-install-images/0.jpg)
+![](IDLE-run-images-cap3/0.jpg)
 
 * Right click on the icon, and choose **"Edit with IDLE"**:
 
-![](IDLE-install-images/1.jpg)
+![](IDLE-run-images-cap3/1.jpg)
 
 * The file should open. Click the **"Run"** tab and **"Run Module"**:
 
-![](IDLE-install-images/2.jpg)
+![](IDLE-run-images-cap3/2.jpg)
 
 * You should now see program running in the **IDLE** console:
 * 
-![](IDLE-install-images/3.jpg)
+![](IDLE-run-images-cap3/3.jpg)
 
 And that's it - you're all set up! 
