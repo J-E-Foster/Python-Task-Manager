@@ -50,20 +50,17 @@
 
 We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make programming easier. Python comes with its own one, **IDLE**:
 
-* Search for the folder where you saved **task_manager.py** (or any other Python file):
+* Search for the folder where you saved **task_manager.py** (or any other Python file).
+* Right click on the icon, and choose **"Edit with IDLE"**:
 
 ![](IDLE-run-images-cap3/0.jpg)
 
-* Right click on the icon, and choose **"Edit with IDLE"**:
+* The file should open. Click the **"Run"** tab and **"Run Module"**:
 
 ![](IDLE-run-images-cap3/1.jpg)
 
-* The file should open. Click the **"Run"** tab and **"Run Module"**:
+* You should now see program running in the **IDLE** console:
 
 ![](IDLE-run-images-cap3/2.jpg)
-
-* You should now see program running in the **IDLE** console:
-* 
-![](IDLE-run-images-cap3/3.jpg)
 
 And that's it - you're all set up! 
