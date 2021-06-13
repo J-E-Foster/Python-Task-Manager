@@ -50,7 +50,7 @@
 
 We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make programming easier. Python comes with its own one, **IDLE**:
 
-* Search for the folder where you saved **finance_calculators.py** (or any other Python file):
+* Search for the folder where you saved **task_manager.py** (or any other Python file):
 
 ![](IDLE-run-images-cap3/0.jpg)
 
