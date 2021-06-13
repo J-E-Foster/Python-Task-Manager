@@ -24,7 +24,7 @@ Please see [**Licence**] for more information.
 
 * To submit work for contribution, you need a [**Github** account](https://github.com).
 * You also need [**Git**](https://docs.github.com/en/github/getting-started-with-github/quickstart/set-up-git).  
-* Follow [**these steps**] to create a local copy of this repository on your machine and to start submitting changes. 
+* Follow [**these steps**](WORKFLOW.md#contributing-via-the-fork-and-branch-workflow) to create a local copy of this repository on your machine and to start submitting changes. 
 
 ### Code style
 
