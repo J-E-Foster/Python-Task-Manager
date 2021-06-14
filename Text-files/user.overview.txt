@@ -1,0 +1,30 @@
+Total users:						4
+Total tasks:						7
+------------------------------------------------------------------
+User:							admin
+Total tasks:						2
+Percentage of all tasks:				28.57 %
+Percentage of user tasks completed:			0.0 %
+Percentage of user tasks incomplete:			100.0 %
+Percentage of user tasks incomplete & overdue:		100.0 %
+------------------------------------------------------------------
+------------------------------------------------------------------
+User:							Pietie
+Total tasks:						2
+Percentage of all tasks:				28.57 %
+Percentage of user tasks completed:			50.0 %
+Percentage of user tasks incomplete:			50.0 %
+Percentage of user tasks incomplete & overdue:		0.0 %
+------------------------------------------------------------------
+------------------------------------------------------------------
+User:							Sannie
+Total tasks:						3
+Percentage of all tasks:				42.86 %
+Percentage of user tasks completed:			33.33 %
+Percentage of user tasks incomplete:			66.67 %
+Percentage of user tasks incomplete & overdue:		0.0 %
+------------------------------------------------------------------
+------------------------------------------------------------------
+User:							Kosie
+Total tasks:						0
+------------------------------------------------------------------

@@ -1,0 +1,7 @@
+admin, Register users with taskManager.py, Use taksManager.py to add the usernames and passwords for all team memnbers that will be using this program, 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+Pietie, Plank saag, Saag al die planke, 14 Apr 2021, 15 Jun 2021, No
+Sannie, Rak pak, Pak al die rakke, 14 Apr 2021, 04 May 2021, No
+Sannie, Vloer was, Was al die vloere van die gebou, 14 Apr 2021, 02 Aug 2021, No
+Pietie, Bosduif jag, Skiet al die duiwe, 14 Apr 2021, 28 Nov 2021, Yes
+Sannie, Skottelgoed was, Was al die skottelgoed op rak 1, 14 Apr 2021, 06 Jul 2021, Yes
