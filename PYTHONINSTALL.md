@@ -51,7 +51,7 @@
 We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make programming easier. Python comes with its own one, **IDLE**:
 
 * Search for the folder where you saved **task_manager.py** (or any other Python file).
-* **Make sure the text files stored in the Text-files folder in this repository are stored in the same folder as task_manager.py.**
+* **Make sure the text files stored in the Text-files folder of this repository are stored in the same folder as task_manager.py.**
 * Right click on the icon, and choose **"Edit with IDLE"**:
 
 ![](IDLE-run-images-cap3/0.jpg)
